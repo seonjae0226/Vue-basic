@@ -1,11 +1,11 @@
 <template>
   <form v-on:submit.prevent="submitForm">
     <div>
-      <label for="username">id :</label>
+      <label for="username">ID :</label>
       <input id="username" type="text" v-model="username">
     </div>
     <div>
-      <label for="password">pw :</label>
+      <label for="password">PW :</label>
       <input id="password" type="password" v-model="password">
     </div>
     <button type="submit">login</button>

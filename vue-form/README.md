@@ -1,5 +1,7 @@
 # vue-form
 
+Hi there!
+
 ## Project setup
 ```
 npm install
