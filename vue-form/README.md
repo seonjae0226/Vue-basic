@@ -1,6 +1,6 @@
 # vue-form
 
-Hi there!
+
 
 ## Project setup
 ```
